@@ -23,9 +23,5 @@ I'm a passionate **software developer** with a strong interest in **cybersecurit
 ## 🌱 Learning & Exploring  
 I'm currently diving deeper into **data engineering, Airflow optimizations, and cloud computing**. Always looking to collaborate on exciting projects!  
 
-## 📫 Contact Me  
-- **Email:** [pranav1234pra@gmail.com](mailto:pranav1234pra@gmail.com)  
-- **GitHub:** [Your GitHub Profile Link]  
-- **LinkedIn:** [Your LinkedIn Profile Link]  
 
 ✨ *Let's build something amazing together!* 🚀  
